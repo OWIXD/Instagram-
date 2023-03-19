@@ -6,9 +6,9 @@ $ pip install requests bs4 futures
 
 $ pip install rich
 
-$ git clone https://github.com/OWIXD/Instagram 
+$ git clone https://github.com/OWIXD/Instagram-
 
-$ cd Instagram 
+$ cd Instagram- 
 
 $ git pull
 
