@@ -8,7 +8,7 @@ $ pip install rich
 
 $ git clone https://github.com/OWIXD/Instagram 
 
-$ cd crack
+$ cd Instagram 
 
 $ git pull
 
