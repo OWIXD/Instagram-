@@ -12,4 +12,4 @@ $ cd Instagram-
 
 $ git pull
 
-$ python IGV1.py
+$ python IGCPREM1.py
