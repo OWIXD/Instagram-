@@ -1,4 +1,4 @@
-## SC FREE JAGAN DI JUAL BELIKAN ##
+hu## SC FREE JAGAN DI JUAL BELIKAN ##
 ## APALAGI DI PREMIUMIN ##
 ## PAKE SEWAJARNYA ##
 
@@ -246,7 +246,7 @@ class Instagram:
                 "viewport-width": "360",
                 "content-type": "application/x-www-form-urlencoded",
                 "accept": "*/*",
-                "user-agent": uaz,
+                "user-agent": self.ua_ig(),
                 "x-asbd-id": "198387",
                 "save-data": "on",
                 "x-csrftoken": tok,
